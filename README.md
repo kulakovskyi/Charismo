@@ -8,7 +8,7 @@
   <li>⭐Сделаны анимации при наведении на объекты</li>
   <li>⭐В написании разметки использовалась методология БЭМ</li>
   <li>⭐Реализован popUp <a href="https://kulakovskyi.github.io/Charismo/#popup__block">popUp</a></li>
-  <li>⭐Сделан аккордеон на страницу <a href="https://kulakovskyi.github.io/Charismo/source/Question/index.html">Вопросы и ответы</a></li>
+  <li>⭐Сделан аккордеон на странице <a href="https://kulakovskyi.github.io/Charismo/source/Question/index.html">Вопросы и ответы</a></li>
   <li>⭐<a href="https://kulakovskyi.github.io/Charismo/">Ссылка на проект</a></li>
 </ul>
 
