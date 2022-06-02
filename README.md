@@ -7,6 +7,7 @@
   <li>⭐Все изображения собраны по папкам</li>
   <li>⭐Сделаны анимации при наведении на объекты</li>
   <li>⭐В написании разметки использовалась методология БЭМ</li>
+  <li>⭐Реализован popUp <a href="https://kulakovskyi.github.io/Charismo/#popup__block">popUp</a></li>
   <li>⭐<a href="https://kulakovskyi.github.io/Charismo/">Ссылка на проект</a></li>
 </ul>
 
